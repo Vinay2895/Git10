@@ -1,0 +1,10 @@
+More of the content has been added
+to raise a merge conflict and raise it
+to resolve it in real time scenario
+
+the original and updated files are not in main branch
+to keep it isolation purpose and 
+this is testing purpose only
+
+
+This is a yaml file with java version 17 to support the application
